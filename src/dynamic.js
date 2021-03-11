@@ -29,6 +29,7 @@ const string = `我是大帅逼，你也是大帅逼？？？
     border-top: 10px solid transparent;
 }
 .triangle{
+    top:-1px;
     width: 40px;
     height: 80px;
     left: 50%;
