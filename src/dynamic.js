@@ -1,4 +1,4 @@
-const string = `我是大帅逼，你也是大帅逼？？？
+const string = `
 <style>
 *{box-sizing: border-box;padding: 0;margin: 0}
 *::before,*::after{box-sizing: border-box;}
@@ -220,20 +220,6 @@ const string = `我是大帅逼，你也是大帅逼？？？
     top: 70px;
     transform: rotate(16deg);
 }
-/* .run2{
-    animation: legLeft 3s linear 3s infinite alternate;
-}
-@keyframes legLeft{
-   
-    33% {
-      transform: rotate(-30deg);
-    }
-    66% {
-      transform: rotate(30deg);
-   
-    }
-  
-  } */
 .leg.right{
     border: 7px solid #000;
     width: 44px;
@@ -243,19 +229,6 @@ const string = `我是大帅逼，你也是大帅逼？？？
     transform: rotate(-16deg);
     top: -25px;
 }
-/* .run1{
-    animation: legRight 3s linear 3s infinite alternate;
-}
-@keyframes legRight{
-   
-  33% {
-    transform: rotate(30deg);
-  }
-  66% {
-    transform: rotate(-30deg);
- 
-  }
-} */
  </style>   
 `
 
